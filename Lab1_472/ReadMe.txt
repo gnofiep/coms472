@@ -1,0 +1,1 @@
+ÑÑ Run in an IDEÑ Ñ Use IDE like eclipse to run the program or pyrite to run itÑ Ñ Compile the Java file ÑÑ Change intodirectories inside "sources" and usethe command                   javac *.javain this case:     javac WebSearch.javaRun: Use the command			   java filenamein this case:	   java WebSearch 
