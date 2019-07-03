@@ -1,0 +1,264 @@
+net
+{
+	propagationenginegenerator1791944048146838126L = "edu.ucla.belief.approx.BeliefPropagationSettings@4130ddf0";
+	recoveryenginegenerator6944530267470113528l = "edu.ucla.util.SettingsImpl@23525a78";
+	node_size = (130.0 55.0);
+}
+
+node variable5
+{
+	states = ("Head" "Tail" );
+	position = (313 -219);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable14
+{
+	states = ("Biased" "Unbiased" );
+	position = (1076 -140);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable12
+{
+	states = ("Biased" "Unbiased" );
+	position = (922 -138);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable7
+{
+	states = ("Head" "Tail" );
+	position = (468 -217);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable1
+{
+	states = ("Head" "Tail" );
+	position = (6 -214);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable11
+{
+	states = ("Head" "Tail" );
+	position = (771 -224);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable8
+{
+	states = ("Biased" "Unbiased" );
+	position = (616 -137);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable4
+{
+	states = ("Biased" "Unbiased" );
+	position = (313 -130);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable10
+{
+	states = ("Biased" "Unbiased" );
+	position = (768 -139);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable2
+{
+	states = ("Biased" "Unbiased" );
+	position = (159 -131);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable9
+{
+	states = ("Head" "Tail" );
+	position = (615 -222);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable13
+{
+	states = ("Head" "Tail" );
+	position = (923 -223);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome7";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable0
+{
+	states = ("Biased" "Unbiased" );
+	position = (5 -129);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable6
+{
+	states = ("Biased" "Unbiased" );
+	position = (467 -132);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable15
+{
+	states = ("Head" "Tail" );
+	position = (1077 -225);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome8";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node variable3
+{
+	states = ("Head" "Tail" );
+	position = (160 -216);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Outcome2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+potential ( variable5 | variable4 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable14 | variable12 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable12 | variable10 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable7 | variable6 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable1 | variable0 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable11 | variable10 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable8 | variable6 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable4 | variable2 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable10 | variable8 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable2 | variable0 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable9 | variable8 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable13 | variable12 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable0 | )
+{
+	data = (	0.0	1.0	);
+}
+potential ( variable6 | variable4 )
+{
+	data = ((	1.0	0.0	)
+		(	0.1	0.9	));
+}
+potential ( variable15 | variable14 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
+potential ( variable3 | variable2 )
+{
+	data = ((	0.8	0.2	)
+		(	0.5	0.5	));
+}
